@@ -10,7 +10,6 @@ AutoPad is a multi-document text editor application with an automated text corre
 - Automated text correction using dictionary-based string distance algorithm
 - Recent file list for quickly opening previously edited documents
 - Tabbed interface for managing multiple documents
-- Customizable toolbar and status bar
 
 ## Requirements
 
@@ -22,7 +21,7 @@ AutoPad is a multi-document text editor application with an automated text corre
 3. Create a build directory: `mkdir build`
 4. Enter the build directory: `cd build`
 5. Run CMake to configure the project: `cmake ..`
-6. Build the project:`make` 
+6. Build the project: `make` 
 
 ## Usage
 
@@ -30,10 +29,10 @@ Upon launching AutoPad, you can create a new document or open an existing text f
 
 The automated text correction feature suggests similar words from a dictionary when you right-click on a misspelled word. This can help you quickly correct typographical errors while writing.
 
-## License
+## Contributing
 
-This project is licensed under the [MIT License](LICENSE).
+This project was developed as part of a university course and is not actively maintained. However, if you would like to contribute improvements or bug fixes, you can submit a pull request on the project's GitHub repository.
 
 ## Credits
 
-Autopad was developed by the class of Tecniche di Programmazione (Programming Techniques) under the supervision of Professor Alessandro Bria at the University of Cassino and Southern Lazio.
+Autopad was developed by the class of Programming Techniques 2020 under the supervision of Prof. Alessandro Bria at the University of Cassino and Southern Lazio.
